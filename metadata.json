@@ -1,0 +1,6 @@
+{
+  "name": "منشئ الامتحانات",
+  "description": "تطبيق متكامل لإنشاء وطباعة أسئلة الامتحانات المدرسية بتنسيق ورقة الامتحان العراقية مع بنك الأسئلة وتصدير PDF",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
